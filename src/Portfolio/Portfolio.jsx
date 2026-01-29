@@ -1756,42 +1756,14 @@ export default function Portfolio() {
           <h2 className="section-divider"> ABOUT </h2>
           <div className="about-bio-box">
             <p className="about-description">
-              I’m a product designer based in New York City with experience
-              designing for e-commerce and ed-tech products. My studies in
-              economics and psychology strongly influence how I approach product
-              design, giving me a foundation in understanding user behavior,
-              decision-making, and how people interact with systems and digital
-              experiences.
+            I’m a product designer based in New York City with experience in e-commerce and ed-tech. I hold a bachelor’s degree in economics and psychology, which influences how I approach user behavior, decision-making, and digital systems.
             </p>
 
             <p className="about-description">
-              I became interested in product design through a curiosity about
-              how digital products shape everyday behavior and experiences. I
-              was drawn to the process of breaking down complex problems,
-              defining structure through information architecture, and
-              translating research and insights into intuitive, user-centered
-              solutions. Product design allows me to combine analytical thinking
-              with creativity while working on problems that have real-world
-              impact. In my work, I focus on research, usability, and
-              clarity—designing interfaces and flows that feel accessible and
-              purposeful. I enjoy contributing to product strategy,
-              collaborating closely with cross-functional teams, and iterating
-              on solutions that balance user needs with business goals,
-              particularly in learning and commerce-focused products.{" "}
-            </p>
+I was drawn to product design through a curiosity about how digital products shape everyday experiences. I enjoy breaking down complex problems, defining clear information architecture, and translating research into intuitive, user-centered solutions. My work focuses on research, usability, accessibility, and clarity, with an emphasis on designing purposeful interfaces and flows that balance user needs with business goals—especially in learning and commerce contexts.            </p>
             <p className="about-description">
-              As a product designer, I bring a thoughtful, detail-oriented
-              mindset, a strong sense of empathy for users, and an appreciation
-              for systems thinking. I care deeply about accessibility,
-              consistency, and creating experiences that are both functional and
-              meaningful.{" "}
-            </p>
-            <p className="about-description">
-              Outside of work, I enjoy drawing and painting, visiting museums,
-              and finding inspiration through art, culture, and the everyday
-              creativity of New York City, which continues to influence how I
-              think visually and approach design problems.{" "}
-            </p>
+Outside of work, I enjoy drawing, painting, and visiting museums, finding inspiration in art, culture, and the everyday creativity of New York City.            </p>
+            
           </div>
           <div className="social-buttons">
             <a
