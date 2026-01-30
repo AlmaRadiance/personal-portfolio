@@ -1734,7 +1734,8 @@ export default function Portfolio() {
         )}
       </nav>
       {/* <section id="about" className="about-hero"> */}
-      <section className="about-hero">
+  
+<section id="about" className="about-hero">
         <div className="about-container">
           <h1 className="about-title"> WELCOME </h1>
           <h2 className="about-subtitle">

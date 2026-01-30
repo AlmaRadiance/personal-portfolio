@@ -5098,20 +5098,7 @@ section {
   margin-bottom: 2rem;
 }
 
-/* .company-name--wisepal {
-  background: linear-gradient(45deg, #ff8c42, #4e00bb);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  transition: all 0.35s ease;
-}
 
-.company-name--wisepal:hover {
-  background: linear-gradient(45deg, #ff8f49, #4e00bb);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  transform: translateY(-1px);
-  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-} */
 
 .case-study--eagle-reach {
   background: #fff8d6;
@@ -5264,10 +5251,8 @@ section {
   }
 }
 
-/* ==================== EAGLE REACH BRAND STYLING ==================== */
 
 .case-hero--eagle-reach {
-  /* background-color: #e8e1d1; */
   background-color: #fffdf9;
 }
 
@@ -5279,17 +5264,6 @@ section {
   );
 }
 
-/* .company-name--eagle-reach {
-  background: linear-gradient(90deg, #3a2e1f, #907551);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.company-name--eagle-reach:hover {
-  background: linear-gradient(90deg, #64523b, #b39770);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-} */
 
 .company-name--eagle-reach {
   background: linear-gradient(90deg, #000000, #ffcc00);
@@ -5311,7 +5285,6 @@ section {
 }
 
 .case-study.eagle-reach-study .case-study-header {
-  /* background: #e8e1d1; */
   background: #ffffff;
   border-bottom-color: #d0b58e;
 }
@@ -5356,7 +5329,6 @@ section {
 }
 
 .case-study.eagle-reach-study .problem-box:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   box-shadow: 0 4px 12px rgba(58, 46, 31, 0.08);
 }
@@ -5371,7 +5343,6 @@ section {
 }
 
 .case-study.eagle-reach-study .goal-card:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   box-shadow: 0 8px 16px rgba(58, 46, 31, 0.1);
@@ -5413,15 +5384,12 @@ section {
 }
 
 .case-study.eagle-reach-study .research-method-card:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
-  /* border-color: #907551; */
   background: #f6f5f2;
   box-shadow: 0 4px 12px rgba(58, 46, 31, 0.08);
 }
 
 .case-study.eagle-reach-study .research-icon {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   color: #907551;
 }
@@ -5435,7 +5403,6 @@ section {
 }
 
 .case-study.eagle-reach-study .findings-box {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #d0b58e;
 }
@@ -5455,7 +5422,6 @@ section {
 }
 
 .case-study.eagle-reach-study .persona-avatar {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   color: #907551;
 }
@@ -5469,7 +5435,6 @@ section {
 }
 
 .case-study.eagle-reach-study .persona-quote {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #d0b58e;
   color: #3a2e1f;
@@ -5497,7 +5462,6 @@ section {
 }
 
 .case-study.eagle-reach-study .phase-tag {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #d0b58e;
   color: #64523b;
@@ -5535,7 +5499,6 @@ section {
 }
 
 .case-study.eagle-reach-study .wireframe-image {
-  /* background: #e8e1d1; */
   background: #fffdf9;
 }
 
@@ -5554,7 +5517,6 @@ section {
 }
 
 .case-study.eagle-reach-study .ds-card {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #d0b58e;
 }
@@ -5582,7 +5544,6 @@ section {
 }
 
 .case-study.eagle-reach-study .feature-card:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   box-shadow: 0 8px 20px rgba(58, 46, 31, 0.12);
@@ -5616,7 +5577,6 @@ section {
 }
 
 .case-study.eagle-reach-study .iteration-content:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   box-shadow: 0 4px 12px rgba(58, 46, 31, 0.1);
@@ -5638,14 +5598,12 @@ section {
 }
 
 .case-study.eagle-reach-study .testing-item:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   box-shadow: 0 4px 12px rgba(58, 46, 31, 0.1);
 }
 
 .case-study.eagle-reach-study .testing-number {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   color: #907551;
   border-color: #907551;
@@ -5661,7 +5619,6 @@ section {
 }
 
 .case-study.eagle-reach-study .accessibility-item:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   box-shadow: 0 4px 12px rgba(58, 46, 31, 0.1);
@@ -5682,7 +5639,6 @@ section {
 }
 
 .case-study.eagle-reach-study .nav-btn:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #907551;
   color: #3a2e1f;
@@ -5700,7 +5656,6 @@ section {
 }
 
 .case-study.eagle-reach-study .case-nav-item:hover {
-  /* background: #e8e1d1; */
   background: #fffdf9;
   border-color: #d0b58e;
 }
@@ -5723,7 +5678,6 @@ section {
 }
 */
 
-/* ==================== WISEPAL BRAND STYLING ==================== */
 
 
 .case-hero--wisepal {
@@ -5739,9 +5693,6 @@ section {
 }
 
 .company-name--wisepal {
-  /* background: linear-gradient(45deg, #ffb732, #6e2f3a);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; */
   background: linear-gradient(45deg, #ff8c42, #4e00bb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -5755,7 +5706,6 @@ section {
 }
 
 .case-study.wisepal-study {
-  /* background: #f6f5f2; */
   background: #fff;
 }
 
@@ -5804,7 +5754,6 @@ section {
 }
 
 .case-study.wisepal-study .problem-box:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   box-shadow: 0 4px 12px rgba(111, 143, 166, 0.1);
 }
@@ -5819,7 +5768,6 @@ section {
 }
 
 .case-study.wisepal-study .goal-card:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #8fa59a;
   box-shadow: 0 8px 16px rgba(111, 143, 166, 0.12);
@@ -5861,15 +5809,12 @@ section {
 }
 
 .case-study.wisepal-study .research-method-card:hover {
-  /* background: #f6f5f2; */
-  /* background: #fdfbfe; */
   background: #fafdff;
   border-color: #6f8fa6;
   box-shadow: 0 4px 12px rgba(111, 143, 166, 0.1);
 }
 
 .case-study.wisepal-study .research-icon {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   color: #6f8fa6;
 }
@@ -5903,7 +5848,6 @@ section {
 }
 
 .case-study.wisepal-study .persona-avatar {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   color: #6f8fa6;
 }
@@ -5917,7 +5861,6 @@ section {
 }
 
 .case-study.wisepal-study .persona-quote {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #d8d4cc;
   color: #2e2e2e;
@@ -5945,7 +5888,6 @@ section {
 }
 
 .case-study.wisepal-study .phase-tag {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #d8d4cc;
   color: #6e2f3a;
@@ -5983,7 +5925,6 @@ section {
 }
 
 .case-study.wisepal-study .wireframe-image {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
 }
 
@@ -6002,7 +5943,6 @@ section {
 }
 
 .case-study.wisepal-study .ds-card {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #d8d4cc;
 }
@@ -6030,7 +5970,6 @@ section {
 }
 
 .case-study.wisepal-study .feature-card:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #6f8fa6;
   box-shadow: 0 8px 20px rgba(111, 143, 166, 0.15);
@@ -6064,7 +6003,6 @@ section {
 }
 
 .case-study.wisepal-study .iteration-content:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #8fa59a;
   box-shadow: 0 4px 12px rgba(111, 143, 166, 0.12);
@@ -6086,14 +6024,12 @@ section {
 }
 
 .case-study.wisepal-study .testing-item:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #6f8fa6;
   box-shadow: 0 4px 12px rgba(111, 143, 166, 0.12);
 }
 
 .case-study.wisepal-study .testing-number {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   color: #6f8fa6;
   border-color: #6f8fa6;
@@ -6109,7 +6045,6 @@ section {
 }
 
 .case-study.wisepal-study .accessibility-item:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #8fa59a;
   box-shadow: 0 4px 12px rgba(111, 143, 166, 0.12);
@@ -6130,7 +6065,6 @@ section {
 }
 
 .case-study.wisepal-study .nav-btn:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #6f8fa6;
   color: #2e2e2e;
@@ -6148,7 +6082,6 @@ section {
 }
 
 .case-study.wisepal-study .case-nav-item:hover {
-  /* background: #f6f5f2; */
   background: #fdfbfe;
   border-color: #d8d4cc;
 }
