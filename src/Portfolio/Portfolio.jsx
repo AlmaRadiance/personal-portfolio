@@ -1807,7 +1807,7 @@ Outside of work, I enjoy drawing, painting, and visiting museums, finding inspir
             <div className="expertise-card">
               <Code size={32} />
               <h3>Development</h3>
-              <p>Front-end developemnt using HTML, CSS, and JavaScript</p>
+              <p>Front-end developemnt using HTML, CSS, JavaScript and React</p>
             </div>
             {/* <div className="expertise-card">
               <Zap size={32} />
