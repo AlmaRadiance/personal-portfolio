@@ -637,12 +637,6 @@ export default function Portfolio() {
             "Frequent questions about tutor reliability and scheduling availability.",
         },
         {
-          icon: BarChart,
-          title: "Task Analysis",
-          desc: "Documented 50+ clinical workflows",
-          findings: "Average 12 clicks to access critical data",
-        },
-        {
           icon: FileText,
           title: "Competitive Audit",
           desc: "Reviewed top 5 online learning and booking platforms",
