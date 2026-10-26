@@ -1026,7 +1026,13 @@ export default function Portfolio() {
 
     // Featured Project View
     const currentIndex = featuredProjects.findIndex((p) => p.id === project.id);
-
+const prevProject =
+  featuredProjects[
+    (currentIndex - 1 + featuredProjects.length) % featuredProjects.length
+  ];
+const nextProject =
+  featuredProjects[(currentIndex + 1) % featuredProjects.length];
+const hasMultiple = featuredProjects.length > 2;
     // return (
     //   <div className="case-study">
     return (
@@ -1630,7 +1636,7 @@ export default function Portfolio() {
               </div>
             )} */}
 
-            <div className="case-navigation">
+            {/* <div className="case-navigation">
               <button
                 className="nav-btn prev-btn"
                 onClick={() => {
@@ -1657,7 +1663,32 @@ export default function Portfolio() {
                 <span>Next Case Study</span>
                 <ArrowRight size={20} />
               </button>
-            </div>
+            </div> */}
+            <div className="case-navigation">
+  {hasMultiple && (
+    <button
+      className="nav-btn prev-btn"
+      onClick={() => {
+        setSelectedProject(prevProject);
+        window.scrollTo(0, 0);
+      }}
+    >
+      <ArrowLeft size={20} />
+      <span>{prevProject.title} Case Study</span>
+    </button>
+  )}
+
+  <button
+    className="nav-btn next-btn"
+    onClick={() => {
+      setSelectedProject(nextProject);
+      window.scrollTo(0, 0);
+    }}
+  >
+    <span>{nextProject.title} Case Study</span>
+    <ArrowRight size={20} />
+  </button>
+</div>
           </div>
 
           {/* ========== RIGHT COLUMN: Sidebar Navigation ========== */}
